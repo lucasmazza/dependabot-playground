@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.9.1",
+    "@types/node": "^22.9.3",
     "axios": "^1.7.7"
   }
 }
